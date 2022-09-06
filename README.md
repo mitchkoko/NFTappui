@@ -1,4 +1,4 @@
-# nftui
+# NFT APP UI
 
 A new Flutter project.
 
